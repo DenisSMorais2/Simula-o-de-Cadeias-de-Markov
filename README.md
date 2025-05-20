@@ -1,6 +1,6 @@
-#👨🏽‍🔬Simulação de Cadeias de Markov
+#Simulação de Cadeias de Markov
 
-Este projeto implementa e analisa simulações de **Cadeias de Markov** discretas, com o objetivo de observar trajetórias, comportamento médio dos estados ao longo do tempo e comparar distribuições empíricas com distribuições teóricas. O projeto é dividido em várias "questões", cada uma abordando um aspecto da simulação.
+👨🏽‍🔬Este projeto implementa e analisa simulações de **Cadeias de Markov** discretas, com o objetivo de observar trajetórias, comportamento médio dos estados ao longo do tempo e comparar distribuições empíricas com distribuições teóricas. O projeto é dividido em várias "questões", cada uma abordando um aspecto da simulação.
 
 ## 📁 Estrutura do Projeto
 
